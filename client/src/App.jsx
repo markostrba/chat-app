@@ -1,7 +1,9 @@
+import Register from "./components/Register";
+
 function App() {
   return (
     <div>
-      <span className="text-3xl font-bold underline">App</span>
+      <Register />
     </div>
   );
 }
