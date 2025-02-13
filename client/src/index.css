@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@theme {
+  --color-seperator: rgb(219, 219, 219);
+  --color-incoming-message: rgb(239, 239, 239);
+  --color-outgoing-message: #3797F0;
+}
